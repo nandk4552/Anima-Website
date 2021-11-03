@@ -244,8 +244,9 @@ header .logo {
         right: 2rem;
     }
     .copyright {
-        bottom: 2rem;
-        left: 1rem;
+        bottom: 1rem;
+        left: 4rem;
         font-size: 1.4rem;
     }
+    
 } 
